@@ -1,3 +1,8 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿namespace LeetCode_Median_of_Two_Sorted_Arrays;
 
-Console.WriteLine("Hello, World!");
+public static class Program
+{
+    public static void Main(string[] args)
+    {
+    }
+}
